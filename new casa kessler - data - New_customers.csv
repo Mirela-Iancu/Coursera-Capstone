@@ -1,0 +1,6 @@
+No,Age,Gender,Entering Day of Week,Staying days,Number of persons,Country,Country Code,Returning times,Travel Type,Tourpref
+1,44,M,Mon,2,1,Spain,1,,Tourist,
+2,22,F,Mon,1,1,France,2,,Tourist,
+3,31,F,Mon,2,2,Spain,1,1,Business,
+4,50,M,Tue,3,1,Germany,2,,Tourist,
+5,55,M,Tue,2,2,Hungary,3,,Tourist,
